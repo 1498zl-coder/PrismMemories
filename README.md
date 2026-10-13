@@ -4,9 +4,9 @@
 
 基于《偶像大师 闪耀色彩 棱镜之歌》（THE IDOLM@STER SHINY COLORS Song for Prism）PC 客户端制作的本地鉴赏项目。通过独立启动器，重温偶像的剧情、语音、卡牌演出与舞台 MV，体验换衣、走秀、拍照和 OurSTREAM 回放。
 
-**当前版本：v1.1 · Windows x64 轻量包。** 本仓库用于发布功能说明与运行包；下载请进入本仓库的 **Releases** 页面。
+**当前版本：v1.1 · Windows x64 轻量包。** 本仓库用于发布功能说明与运行包；下载请进入本仓库的 [**v1.1 Releases** 页面](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1)。
 
-> 发布状态：v1.1 运行包已更新到 Release 草稿，公开发布仍暂停。旧 v1.00 已停止公开下载；游戏资源与 OurSTREAM 两个数据仓库继续公开可用。
+> 发布状态：[v1.1 已公开下载](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1)。旧 v1.00 已停止公开下载；游戏资源与 OurSTREAM 两个数据仓库继续公开可用。
 
 ## v1.1 更新（2026-10-13）
 
