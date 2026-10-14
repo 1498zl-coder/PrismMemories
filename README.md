@@ -4,20 +4,20 @@
 
 基于《偶像大师 闪耀色彩 棱镜之歌》（THE IDOLM@STER SHINY COLORS Song for Prism）PC 客户端制作的本地鉴赏项目。通过独立启动器，重温偶像的剧情、语音、卡牌演出与舞台 MV，体验换衣、走秀、拍照和 OurSTREAM 回放。
 
-**当前版本：v1.1 · Windows x64 轻量包。** 本仓库用于发布功能说明与运行包；下载请进入本仓库的 [**v1.1 Releases** 页面](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1)。
+**当前版本：v1.1.1 · Windows x64 轻量包。** 本仓库用于发布功能说明与运行包；下载请进入本仓库的 [**v1.1.1 Releases** 页面](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1.1)。
 
-> 发布状态：[v1.1 已公开下载](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1)。旧 v1.00 已停止公开下载；游戏资源与 OurSTREAM 两个数据仓库继续公开可用。
+> 发布状态：[v1.1.1 已公开下载](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1.1)；上一版 [v1.1](https://github.com/1498zl-coder/PrismMemories/releases/tag/v1.1) 仍可下载。旧 v1.00 已停止公开下载；游戏资源与 OurSTREAM 两个数据仓库继续公开可用。
 
-## v1.1.1 进展（2026-10-14）
+## v1.1.1 更新（2026-10-14）
 
-v1.1.1 已完成本机测试并上传 Release 草稿，尚未公开；当前公开下载版本仍为上方 v1.1。新版使用 Game、Support、Config、Data、User 五目录，Data 保存游戏资源/节目，User 保存存档、照片与日志。
+v1.1.1 已完成本机测试并公开，是当前下载版本。新版使用 Game、Support、Config、Data、User 五目录，Data 保存游戏资源/节目，User 保存存档、照片与日志。
 
 - 改进续传、启动检查、媒体安装、按节目异步准备和会话日志。
 - 资料页固定称号/统计缓存，剧情已读与个人资料实时更新。
 - 启动器及下载窗口批量显示最近记录，完整日志保留；状态读取移到后台。
 - 启动器和运行包版本统一为 v1.1.1；兼容客户端2.18.0、资源20006100。
 
-以下首次使用与目录说明仍对应公开的 v1.1；新版说明随 v1.1.1 运行包及 Release 草稿提供。
+以下首次使用与目录说明对应当前公开的 v1.1.1。
 
 ## v1.1 更新（2026-10-13）
 
@@ -71,7 +71,7 @@ v1.1.1 已完成本机测试并上传 Release 草稿，尚未公开；当前公�
 
 ## 首次使用
 
-1. 从本仓库的 **Releases** 下载 `PrismMemories-v1.1-win-x64.zip`，完整解压到有写入权限的目录，例如 `D:\PrismMemories`。不要直接在压缩包中运行，也不要只提取 EXE。
+1. 从本仓库的 **Releases** 下载 `PrismMemories-v1.1.1-win-x64.zip`，完整解压到有写入权限的目录，例如 `D:\PrismMemories`。不要直接在压缩包中运行，也不要只提取 EXE。
 2. 运行 `PrismMemories.exe`，按首次使用提示准备资源，或进入 **资源中心 → 设置资源目录**。
 3. 选择一种资源准备方式：复用兼容的正版目录，或下载到本包的 `Resources`。具体区别见下一节。
 4. 在 **维护工具 → 检查环境** 完成检查，然后点击 **启动鉴赏馆**。
